@@ -102,6 +102,9 @@ void loop()
 Output of the simulation :
 ### OUTPUT:
 
+![image](https://user-images.githubusercontent.com/94165326/165751572-909ae309-c3c4-402f-9c5e-8c92861c8c9e.png)
+
+
 
 
 ### Result:
