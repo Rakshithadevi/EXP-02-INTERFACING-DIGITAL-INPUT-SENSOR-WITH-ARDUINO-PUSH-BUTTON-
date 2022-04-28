@@ -109,5 +109,5 @@ void loop()
 
 ### Result:
 
-thus  the given promblem stateted stimulated 
+thus the simulation output is completed in tinkercad.
 
