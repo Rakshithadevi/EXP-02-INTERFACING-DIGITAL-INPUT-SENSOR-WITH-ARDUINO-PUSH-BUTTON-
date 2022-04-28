@@ -109,5 +109,5 @@ void loop()
 
 ### Result:
 
-thus the simulation output is completed in tinkercad.
+thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
 
